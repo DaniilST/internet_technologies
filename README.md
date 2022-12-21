@@ -52,4 +52,4 @@
 
 [Ответ на экзаменационный билет №5](https://github.com/stankin/inet-2022/wiki/exam05)
 
-Индивидуальный реферат (были даны ответы на все два вопроса в билете): <a href="https://github.com/stankin/inet-2022/wiki/exam05/325b8c30e5f8b869d33ca224c93af4554d637d89">Последний коммит</a>.
+Индивидуальный реферат (были даны ответы на все два вопроса в билете): <a href="https://github.com/stankin/inet-2022/wiki/exam05/_compare/7348506dc823e4aeb6f39dfff3717ebfa59456d3...325b8c30e5f8b869d33ca224c93af4554d637d89">Разница ревизий</a>.
